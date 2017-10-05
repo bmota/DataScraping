@@ -5,7 +5,7 @@
   "description": "Is a tool to generate a dynamic provider for get data from a website.",
   "author": "Brayan",
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node ./src/bin/www"
   },
   "dependencies": {
     "body-parser": "~1.17.1",
@@ -19,6 +19,7 @@
     "cheerio": "latest"
   },
   "devDependencies": {
-    "nodemon": "^1.12.1"
+    "nodemon": "^1.12.1",
+    "webpack": "^3.6.0"
   }
 }
