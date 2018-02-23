@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "description": "Is a tool to generate a dynamic provider for get data from a website.",
-  "author": "Brayan",
+  "author": "Brayan Mota",
   "scripts": {
     "start": "node ./bin/www"
   },
